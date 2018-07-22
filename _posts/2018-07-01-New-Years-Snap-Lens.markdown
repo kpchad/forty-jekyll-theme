@@ -1,0 +1,24 @@
+---
+layout: posts
+title:  "New Year's Resolution Snap Lens"
+date:   2018-07-01 12:08:10 -0700
+categories: AugmentedReality Software
+---
+A Snapchat lens made in Snapchat’s “Lens Studio” software.
+
+To try it out for 24hrs just scan this code:
+
+resolution_snapcode
+
+The lens was submitted to Snapchat’s Lens Studio “January Jumpstart” challenge and was later featured on the challenge web page
+
+The lens has so far been viewed over 20,000 times.
+
+code: https://github.com/kpchad/barbell_lens
+
+ 
+
+featured_lens_website
+
+For a humorous example of how to use it:
+
