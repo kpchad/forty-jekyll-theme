@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sesamoids
-description: Feugiat amet tempus
+description: Why do sesamoids develop?
 image: assets/images/pic06.jpg
 ---
 
