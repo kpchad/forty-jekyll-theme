@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poly-on-Prism
-description: brining the Google Poly API into the Mira Prism AR headset
+description: bringing the Google Poly API into the Mira Prism AR headset
 image: assets/images/pic06.jpg
 ---
 
