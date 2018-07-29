@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpticSurg
-description: Lorem etiam nullam
+description: augmented reality platform for surgery
 image: assets/images/pic03.jpg
 ---
 
