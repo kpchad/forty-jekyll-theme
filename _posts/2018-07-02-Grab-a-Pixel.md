@@ -1,9 +1,10 @@
 ---
-layout: posts
-title:  "Creating Reality 2018 Hackathon: Grab-a-Pixel"
-date:   2018-07-02 12:08:10 -0700
-categories: AugmentedReality Hololens Software
+layout: post
+title: Grab-a-Pixel
+description: Lorem etiam nullam
+image: assets/images/pic03.jpg
 ---
+
 For the 2018 Creating Reality Hackathon at USC, I teamed up with two car designers to create augmented reality tool.
 
 How can we begin designing for the vehicle of the future, today? That’s what our app tried to accomplish, with a life-size virtual car that you could customize.
