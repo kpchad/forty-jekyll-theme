@@ -1,9 +1,10 @@
 ---
-layout: posts
-title:  "Poly on Prism"
-date:   2018-06-30 12:08:10 -0700
-categories: AugmentedReality Software
+layout: post
+title: Poly-on-Prism
+description: Feugiat amet tempus
+image: assets/images/pic06.jpg
 ---
+
 A project for creators. Use the Google Poly API on the Mira Prism augmented reality headset to import assets and create a 3d environment.
 
 Source Code
