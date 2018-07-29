@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MyeloBone
-description: Feugiat amet tempus
+description: What happens to bone in children with Myelomeningocele?
 image: assets/images/pic06.jpg
 ---
 
