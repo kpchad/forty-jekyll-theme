@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BiomechLaunch
-description: An open resource for biomechanics technologies
+description: An resource for clinicians and researchers distilling biomechanics technology news
 image: assets/images/pic03.jpg
 ---
 
