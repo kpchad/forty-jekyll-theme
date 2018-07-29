@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BreathingBiofeedback
-description: Lorem etiam nullam
+description: Breathing exercises led by an floating AR Wim Hof
 image: assets/images/pic03.jpg
 ---
 
