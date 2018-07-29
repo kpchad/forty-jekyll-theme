@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grab-a-Pixel
-description: Lorem etiam nullam
+description: 2018 USC Creating Reality Hackathon project
 image: assets/images/pic03.jpg
 ---
 
