@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ForcePlate
-description: Feugiat amet tempus
+description: building a custom 6-axis force plate
 image: assets/images/pic06.jpg
 ---
 
