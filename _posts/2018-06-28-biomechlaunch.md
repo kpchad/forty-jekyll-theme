@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Biomech Launch"
+title:  BiomechLaunch
 date:   2018-06-28 12:08:10 -0700
 categories: biomechanics
 ---
