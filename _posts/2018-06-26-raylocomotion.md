@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RayLocomotion
-description: Feugiat amet tempus
+description: Modeling of batoid ray locomotion biomechanics
 image: assets/images/pic06.jpg
 ---
 
