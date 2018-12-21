@@ -2,7 +2,7 @@
 layout: post
 title: OpticSurg
 description: augmented reality platform for surgery
-image: assets/images/pic03.jpg
+image: assets/images/opticsurg-mixed-reality-app.jpg
 ---
 
 I am currently developing at OpticSurg, a startup creating an Augmented Reality software platform that surgeons can use in real time to do their jobs better, minimize complications, and save lives.
