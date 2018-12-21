@@ -2,7 +2,7 @@
 layout: post
 title: Grab-a-Pixel
 description: 2018 USC Creating Reality Hackathon project
-image: assets/images/pic03.jpg
+image: assets/images/CR3.jpg
 ---
 
 For the 2018 Creating Reality Hackathon at USC, I teamed up with two car designers to create augmented reality tool.
