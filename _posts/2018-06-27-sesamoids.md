@@ -9,8 +9,10 @@ My research in the Structure and Motion Laboratory at the RVC was part of a gran
 
 I presented two posters for this project, at SEB2014 and EB2015.
 
-The first paper for this project was an anatomical study, published in PeerJ.
+The first paper for this project was an anatomical study, published in [PeerJ](https://peerj.com/articles/706/).
 
-The second paper for this project was a finite element analysis modelling study, published in Royal Society Open Science.
+The second paper for this project was a finite element analysis modelling study, published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.170133).
 
-For more about sesamoid projects led by John Hutchinson, see his blog.
+To ready more about our journey with this research question, see John's blog post [Why do ostriches have two kneecaps in each knee?](https://whatsinjohnsfreezer.com/2017/06/08/why-2-kneecaps/).
+
+For more about all the sesamoid projects led by John Hutchinson, see John's blog post [I Never Met A Fella Who Didn’t Like a Good Patella](https://whatsinjohnsfreezer.com/2013/11/24/fella-patella-haha/).
