@@ -12,4 +12,7 @@ How can we begin designing for the vehicle of the future, today? That’s what o
 ![CR1](/assets/images/CR1.jpg)
 ![CR2](/assets/images/CR2.jpg)
 
+![image](/assets/images/CR1.jpg)
+<img src="/assets/images/CR1.jpg" alt="">
+
 More information can be found on [Devpost](https://devpost.com/software/3d-holo-colab) and all code is open source, hosted on [Github](https://github.com/creatingrealitysubmissions/3d-holo-colab).
