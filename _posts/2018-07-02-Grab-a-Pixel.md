@@ -9,10 +9,7 @@ For the 2018 Creating Reality Hackathon at USC, I teamed up with two car designe
 
 How can we begin designing for the vehicle of the future, today? That’s what our app tried to accomplish, with a life-size virtual car that you could customize.
 
-<span class="image left"><img src="assets/images/CR1.jpg" alt="" /></span>
-<span class="image left"><img src="assets/images/CR2.jpg" alt="" /></span>
-
-![CR1](/assets/images/CR1.jpg){:class="img-responsive"}
-![CR2](/assets/images/CR2.jpg){:class="img-responsive"}
+![CR1](/assets/images/CR1.jpg)
+![CR2](/assets/images/CR2.jpg)
 
 More information can be found on [Devpost](https://devpost.com/software/3d-holo-colab) and all code is open source, hosted on [Github](https://github.com/creatingrealitysubmissions/3d-holo-colab).
