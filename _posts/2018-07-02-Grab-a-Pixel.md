@@ -12,4 +12,7 @@ How can we begin designing for the vehicle of the future, today? That’s what o
 <span class="image left"><img src="assets/images/CR1.jpg" alt="" /></span>
 <span class="image left"><img src="assets/images/CR2.jpg" alt="" /></span>
 
+![CR1](/assets/images/CR1.jpg){:class="img-responsive"}
+![CR2](/assets/images/CR2.jpg){:class="img-responsive"}
+
 More information can be found on [Devpost](https://devpost.com/software/3d-holo-colab) and all code is open source, hosted on [Github](https://github.com/creatingrealitysubmissions/3d-holo-colab).
