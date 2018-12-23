@@ -7,6 +7,6 @@ image: assets/images/PoP.png
 
 A project for creators. Use the Google Poly API on the Mira Prism augmented reality headset to import assets and create a 3d environment.
 
-Source Code
+[Github code](https://github.com/kpchad/PolyOnPrism)
 
-Demo
+[Demo](https://www.youtube.com/watch?v=xoUc3HBwB3k)
