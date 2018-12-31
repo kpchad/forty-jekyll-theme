@@ -3,7 +3,7 @@ title: Kyle Chadwick
 subtitle: Portfolio
 email: kylepchad@gmail.com
 description: Engineer with expertise in Medical Augmented Reality & Clinical Biomechanics.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
 # homepage tiles
