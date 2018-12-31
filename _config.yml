@@ -27,3 +27,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# Google Analytics
+google_analytics: UA-131430059-1
