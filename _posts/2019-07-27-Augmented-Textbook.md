@@ -2,7 +2,7 @@
 layout: post
 title: Augmented-Textbook
 description: an AR-enabled textbook for earth science education
-image: assets/images/textbookAR.png
+image: assets/images/TextbookAR.PNG
 ---
 
 This was a proof-of-concept app that I created to demonstrate how animated 3d assets can improve the traditional learning experience. 
