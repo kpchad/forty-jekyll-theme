@@ -8,8 +8,8 @@ image: assets/images/textbookAR.png
 This was a proof-of-concept app that I created to demonstrate how animated 3d assets can improve the traditional learning experience. 
 The app was built for Android in Unity, using the ARCore SDK.
 
-Here is a demo video of the app: https://www.youtube.com/watch?v=1LUwxdrjdEE&feature=youtu.be 
+[demo video](https://www.youtube.com/watch?v=1LUwxdrjdEE&feature=youtu.be)
 
-I documented some of the development experience in a tweet thread here: https://twitter.com/KPChadwick/status/1150443176492072960?s=20
+I documented some of the development experience in a [tweet thread](https://twitter.com/KPChadwick/status/1150443176492072960?s=20)
 
-The source code is also freely available on my github: https://github.com/kpchad/TextbookAR
+The source code is also freely available on [my github](https://github.com/kpchad/TextbookAR)
