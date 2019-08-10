@@ -18,6 +18,7 @@ Senior Engineer, Children’s Hospital Los Angeles Motion Analysis Lab, Los Ange
 - Train personnel on the use of specialized software tools and biomechanical modeling methods
 
 PAST ROLES
+
 Engineer, Children’s Hospital Los Angeles Motion Analysis Lab, Los Angeles, CA [Aug 2015-Oct 2018]
 - Developed new software and hardware solutions for in-house clinical and research needs
 - Researched and implemented new technologies to improve clinical and research assessments
@@ -45,6 +46,7 @@ Physics Research Lab Assistant, University of Virginia, Charlottesville, VA [Sum
 - Created 3D models of current and future laboratory equipment
 
 EDUCATION 
+
 MRes Comparative Biomedical Sciences, Royal Veterinary College, London, UK [August 2015]
 Thesis: “Mechanobiological modeling of the patellar sesamoid complex in the ostrich (Struthio camelus)” 
 
@@ -52,6 +54,7 @@ BSc Mechanical Engineering, University of Virginia, Charlottesville, VA [May 201
 Two-part Thesis: “Biomechanical Modeling of Ray Pectoral Fins for the Advisements of AUVs” & “Bio-inspired Engineering Design for Market Success”
 
 ACTIVITIES
+
 Co-founder, XRLA [March 2018-Present]
 - Building a community of XR professional in Los Angeles (AR/VR/immersive technology)
 - Organize monthly meetups with expert panels, demos, networking opportunities
