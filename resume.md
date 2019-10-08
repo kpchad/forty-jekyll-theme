@@ -7,6 +7,7 @@ nav-menu: true
 ---
 
 PROJECTS
+
 Multistream - ATT 5G Hackathon Project, 2nd Place overall & Best High-Bandwidth Use Case [Oct 2019]
 Mobile VR 5G video surveillance hub, simultaneous streaming videos mapped to GPS locations
 
@@ -17,6 +18,7 @@ Augmented Textbook [July 2019]
 An AR-enabled textbook for earth science education 
 
 EMPLOYMENT
+
 Augmented Reality Developer, SurgARai [March 2018-Present]
 SurgARai is building an AR-based software platform that combines relevant preoperative information with real-time intraoperative information in a portable, adaptable, and personalized fashion, helping ensure that surgeons have all the information they need when they need it – in the operating room
 Develop, test, and iterate upon feature prototypes using Unity, C#, various AR headsets
@@ -45,10 +47,12 @@ Mechanical Engineering Intern, Intellibot Robotics LLC, Richmond, VA [Summer 201
 3D Modeller, Donal Day Physics Research Lab, University of Virginia, Charlottesville, VA [Summer 2010-Spring 2011]
 
 EDUCATION 
+
 MRes Comparative Biomedical Sciences, Royal Veterinary College, London, UK [August 2015]
 BSc Mechanical Engineering, University of Virginia, Charlottesville, VA [May 2013] 
 
 ACTIVITIES
+
 Co-founder, XRLA [March 2018-Present]
 Built a >1300 member community of XR professional in Los Angeles
 Organize monthly meetups with expert panels, demos, networking opportunities
