@@ -15,7 +15,7 @@ Our team won:
 
 Best High-Bandwidth Use Case ($5,000)
 
-assets/images/Multistream2.PNG
+![](https://github.com/kpchad/portfolio/blob/gh-pages/assets/images/Multistream2.jpg)
 
 [Devpost](https://devpost.com/software/lifesaver5g)
 
