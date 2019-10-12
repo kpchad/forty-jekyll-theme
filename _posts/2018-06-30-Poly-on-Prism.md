@@ -10,5 +10,3 @@ A project for creators. Use the Google Poly API on the Mira Prism augmented real
 {% include youtubePlayer.html id="xoUc3HBwB3k" %}
 
 [Github code](https://github.com/kpchad/PolyOnPrism)
-
-[Demo](https://www.youtube.com/watch?v=xoUc3HBwB3k)
