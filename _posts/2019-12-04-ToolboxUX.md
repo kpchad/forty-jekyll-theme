@@ -10,4 +10,8 @@ This study set out to design an intuative, easy to use, VR surgical toolbox. In 
 The first step was to sketch conceptualize and sketch out many ways that such an interface might work. Some of these designs resembled a familiar 2d interface, mimicked the real-world interface, or were inspired by other digital interfaces.
 ![image](/assets/images/UX_sketches.jpg)
 
+The 2nd step was to make visual prototypes of how some of these interfaces would look and feel in 3d. It is one thing to see an interface on a 2d drawing, another to see it as it takes up physical space around you.
+
+![image](/assets/images/flatUI_tilt.gif)
+
 This study is a WIP, more coming soon!
