@@ -14,4 +14,6 @@ The 2nd step was to make visual prototypes of how some of these interfaces would
 
 ![image](/assets/images/flatUI_tilt.gif)
 
+![image](/assets/images/sketchbox_vertScroll.png)
+
 This study is a WIP, more coming soon!
