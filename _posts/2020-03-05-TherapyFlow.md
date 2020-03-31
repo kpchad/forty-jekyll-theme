@@ -14,6 +14,10 @@ TherapyFlow utilizes the common rhythm-based game dynamic seen in popular VR gam
 
 TherapyFlow was built for the Oculus Quest platform and utilizes it's new hand tracking feature. With no wires, no external computers, and no controllers, the barrier for entry is virtually gone. No experience or training is needed to slip the headset on and dive into a therapy session.
 
+TherapyFlow was first created as a project for the Virtual Medicine Conference [2020 Virtual Hackathon](https://www.virtualmedicine.health/apply-for-2020-hackathon). TherapyFlow took home two of the six awards given out - winning the sponsored prizes from Chariot Kids and XRHealth.
+
+If you want to read more a more in-depth telling of my journey through design/development of TherapyFlow [you can read it here, in this article I wrote right after the Hackathon](https://link.medium.com/OP9hya11i5)
+
 {% include youtubePlayer.html id="AgyqOHEoF6c" %}
 
 [Devpost](https://devpost.com/software/therapyflow)
