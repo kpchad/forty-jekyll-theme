@@ -18,6 +18,8 @@ TherapyFlow was first created as a project for the Virtual Medicine Conference [
 
 If you want to read more a more in-depth telling of my journey through design/development of TherapyFlow [you can read it here, in this article I wrote right after the Hackathon](https://link.medium.com/OP9hya11i5)
 
+Currently, I am user testing the Alpha version of TherapyFlow and working on the Beta version. 
+
 {% include youtubePlayer.html id="AgyqOHEoF6c" %}
 
 [Devpost](https://devpost.com/software/therapyflow)
